@@ -3,7 +3,7 @@ mapsui
 
 Fiddling around with Google Maps
 
-## Reuirements
+## Requierements
 - Java SDK (minimum 1.7)
 - Maven 3
 
