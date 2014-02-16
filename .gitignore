@@ -1,1 +1,7 @@
 target/
+.idea/
+public_html/.idea
+.classpath
+.project
+.settings
+.DS_Store
